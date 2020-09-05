@@ -27,7 +27,7 @@ The goal of this project is undestand the type of UFO sightings and if there any
 
 
 
-* **A Tableau workbook uploaded to Tableau Public** https://public.tableau.com/profile/joao4789#!/vizhome/UFO_15993077042510/TheUFOstory.
+* **A Tableau workbook uploaded to Tableau Public** https://public.tableau.com/profile/joao4789#!/vizhome/UFO_15993077042510/TheUFOstory?publish=yes
 
 * **A ``README.md`` file** containing a detailed explanation of your approach and code for constructing visualizations and organizing them into a Story as well as your results, obstacles encountered, lessons learned, and a link to your completed Tableau workbook.
 
